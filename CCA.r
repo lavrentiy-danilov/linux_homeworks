@@ -1,4 +1,5 @@
-library(vegan)
+#загрузка библиотекl
+ibrary(vegan)
 
 library(vegan)
 data(mite)
